@@ -1,0 +1,526 @@
+Solving the Traveling Salesman's Problem Using the African Buffalo Optimization
+["Julius Beneoluchi Odili", "Mohd Nizam Mohmad Kahar"]
+Artificial algae algorithm (AAA) for nonlinear global optimization
+["Sait Ali Uymaz", "Gulay Tezel", "Esra Yel"]
+A Bio-Inspired Method for the Constrained Shortest Path Problem
+["Hongping Wang", "Xi Lu", "Xiaoge Zhang", "Qing Wang", "Yong Deng"]
+Remarkable problem-solving ability of unicellular amoeboid organism and its mechanism
+["Liping Zhu", "Song-Ju Kim", "Masahiko Hara", "Masashi Aono"]
+Anarchic Society Optimization Based PID Control of an Automatic Voltage Regulator (AVR) System
+["Hossein Shayeghi"]
+Andean Condor Algorithm for cell formation problems
+["Boris Almonacid", "Ricardo Soto"]
+The Anglerfish algorithm: a derivation of randomized incremental construction technique for solving the traveling salesman problem
+["Mei F. Pook", "Effirul I. Ramlan"]
+Mathematical models and a hunting search algorithm for the no-wait flowshop scheduling with parallel machines
+["B. Naderi", "Majid Khalili", "Alireza Arshadi Khamseh"]
+Prey-Predator Algorithm: A New Metaheuristic Algorithm for Optimization Problems
+[]
+Group Search Optimizer: An Optimization Algorithm Inspired by Animal Searching Behavior
+["S. He", "Q.H. Wu", "J.R. Saunders"]
+Distributed optimization by ant colonies
+["Alberto Colorni", "Marco Dorigo", "Vittorio Maniezzo"]
+The Ant Lion Optimizer
+["Seyedali Mirjalili"]
+The clonal selection algorithm with engineering applications
+["Leandro Nunes de Castro", "Fernando J. Von Zuben"]
+A new metaheuristic optimization method: the algorithm of the innovative gunner (AIG)
+["Paweł Pijarski", "Piotr Kacejko"]
+Old Bachelor Acceptance: A New Class of Non-Monotone Threshold Accepting Methods
+["T.C. Hu", "Andrew B. Kahng", "Chung-Wen Albert Tsao"]
+Optimization based on bacterial chemotaxis
+["Sibylle D. Muller", "Jarno Marchetto", "Stefano Airaghi", "Petros Koumoutsakos"]
+Biomimicry of bacterial foraging for distributed optimization and control
+[]
+A Fast Bacterial Swarming Algorithm for high-dimensional function optimization
+["Ying Chu", "Hua Mi", "Zhen Ji", "Huilian Liao", "Q.H. Wu"]
+Magnetotactic bacteria optimization algorithm for multimodal optimization
+[]
+Barnacles Mating Optimizer Algorithm for Optimization
+[]
+A new metaheuristic bat-inspired algorithm
+["Xin-She Yang"]
+Battle royale optimization algorithm
+["Taymaz Rahkar Farshi"]
+Pity beetle algorithm - A new metaheuristic inspired by the behavior of bark beetles
+[]
+Bee Colony Optimization: Principles and Applications
+[]
+Artificial Bee Colony (ABC) Optimization Algorithm for Solving Constrained Optimization Problems
+["Dervis Karaboga", "Bahriye Basturk"]
+Bumblebees
+[]
+MBO: marriage in honey bees optimization-a Haplometrosis polygynous swarming approach
+["Hussein A. Abbass"]
+Queen-bee evolution for genetic algorithms
+["Sung Hoon Jung"]
+A new optimization method: Big Bang-Big Crunch
+[]
+Biogeography-Based Optimization
+["Suraj Sharma", "D. Chandrasekhar Rao", "Yujun Zheng", "Xueqin Lu", "Minxia Zhang", "Shengyong Chen", "Dan Simon"]
+Bird mating optimizer: An optimization algorithm inspired by bird mating strategies
+["Alireza Askarzadeh"]
+Migrating Birds Optimization: A new metaheuristic approach and its performance on quadratic assignment problem
+[]
+A shuffled multi-swarm micro-migrating birds optimizer for a multi-resource-constrained flexible job shop scheduling problem
+["Quan-Ke Pan", "Liang Gao"]
+A novel metaheuristic inspired by Hitchcock birds' behavior for efficient optimization of large search spaces of high dimensionality
+["Reinaldo Gomes Morais", "Nadia Nedjah", "Luiza M. Mourelle"]
+Proposal of a New Swarm Optimization Method Inspired in Bison Behavior
+[]
+Black hole: A new heuristic optimization approach for data clustering
+[]
+Black Widow Optimization Algorithm: A novel meta-heuristic approach for solving engineering optimization problems
+[]
+A robust clustering method based on blind,  naked mole-rats (BNMR) algorithm
+[]
+Multi-objective Bonobo Optimizer (MOBO): an intelligent heuristic for multi-criteria optimization
+[]
+An Optimization Algorithm Based on Brainstorming Process
+[]
+A New Optimization Algorithm Based on the Behavior of BrunsVigia Flower
+[]
+Meta-heuristic bus transportation algorithm
+[]
+Monarch butterfly optimization
+[]
+Butterfly optimization algorithm: a novel approach for global optimization
+[]
+Buzzard Optimization Algorithm: A Nature-Inspired Metaheuristic Algorithm
+[]
+ITGO: Invasive tumor growth optimization algorithm
+[]
+Cat Swarm Optimization
+[]
+Novel Optimization Algorithm Inspired by Camel Traveling Behavior
+[]
+CENTRAL FORCE OPTIMIZATION: A NEW METAHEURISTIC WITH APPLICATIONS IN APPLIED ELECTROMAGNETICS
+[]
+Chameleon Swarm Algorithm: A bio-inspired optimizer for solving engineering design problems
+[]
+A novel heuristic optimization method: charged system search
+[]
+Cheetah Based Optimization Algorithm: A Novel Swarm Intelligence Paradigm
+[]
+ACROA: Artificial Chemical Reaction Optimization Algorithm for global optimization
+[]
+A New Bio-inspired Algorithm: Chicken Swarm Optimization
+[]
+Laying Chicken Algorithm: A New Meta-Heuristic Approach to Solve Continuous Programming Problems
+[]
+A NOVEL OPTIMIZATION ALGORITHM BASED ON ATMOSPHERE CLOUDS MODEL
+[]
+An Improved Cockroach Swarm Optimization
+[]
+Colliding bodies optimization: A novel meta-heuristic method
+[]
+Community of scientist optimization: An autonomy oriented approach to distributed optimization
+[]
+Consultant-guided search
+[]
+The Coral Reefs Optimization Algorithm: A Novel Metaheuristic for Efficiently Solving Optimization Problems
+[]
+COVID-19 Optimizer Algorithm,  Modeling and Controlling of Coronavirus Distribution Process
+[]
+Coyote Optimization Algorithm: A New Metaheuristic for Global Optimization Problems
+[]
+Crystal Energy Optimization Algorithm
+[]
+A novel metaheuristic method for solving constrained engineering optimization problems: Crow search algorithm
+[]
+Chaotic crow search algorithm for fractional optimization problems
+[]
+Cuckoo Search via Lévy flights
+[]
+Red Deer Algorithm (RDA); A New Optimization Algorithm Inspired by Red Deers’ Mating
+[]
+Introducing dendritic cells as a novel immune-inspired algorithm for anomaly detection
+[]
+DGO: Dice Game Optimizer
+[]
+A New Engineering Optimization Method: African Wild Dog Algorithm
+[]
+Border Collie Optimization
+[]
+A Dolphin Partner Optimization
+[]
+A new optimization method: Dolphin echolocation
+[]
+DTO: Donkey Theorem Optimization
+[]
+Dragonfly algorithm: a new meta-heuristic optimization technique for solving single-objective,  discrete,  and multi-objective problems
+[]
+Duelist Algorithm: An Algorithm Inspired by How Duelist Improve Their Capabilities in a Duel
+[]
+Eagle Strategy Using Lévy Walk and Firefly Algorithms for Stochastic Optimization
+[]
+Earthworm optimization algorithm: a bio-inspired metaheuristic algorithm for global optimization problems
+[]
+An eco-inspired evolutionary algorithm applied to numerical optimization
+[]
+Circle detection using electro-magnetism optimization
+[]
+Electron radar search algorithm: a novel developed meta-heuristic algorithm
+[]
+Electimize: New Evolutionary Algorithm for Optimization with Application in Construction Engineering
+[]
+Electron radar search algorithm: a novel developed meta-heuristic algorithm
+[]
+Elephant Search Algorithm for optimization problems
+[]
+Elephant Herding Optimization
+[]
+Social Emotional Optimization Algorithm for Nonlinear Constrained Optimization Problems
+[]
+Artificial infectious disease optimization: A SEIQR epidemic dynamic model-based function optimization~algorithm
+[]
+Kaizen programming
+[]
+Ecogeography-based optimization: Enhancing biogeography-based optimization with ecogeographic barriers and differentiations
+[]
+Design of heat exchangers using Falcon Optimization Algorithm
+[]
+Farmland fertility: A new metaheuristic algorithm for solving continuous optimization problems
+[]
+A New Meta-Heuristic Optimization Algorithm Inspired by FIFA World Cup Competitions: Theory and Its Application in PID Designing for AVR System
+[]
+Firefly Algorithms for Multimodal Optimization
+[]
+Fireworks Algorithm for Optimization
+[]
+Improved binary particle swarm optimization using catfish effect for feature selection
+[]
+Cuttlefish Algorithm - A Novel Bio-Inspired Optimization Algorithm
+[]
+A novel search algorithm based on fish school behavior
+[]
+Studies on Artificial Fish Swarm Optimization Algorithm Based on Decomposition and Coordination Techniques
+[]
+Tackling global optimization problems with a novel algorithm - Mouth Brooding Fish algorithm
+[]
+Flower Pollination Algorithm for Global Optimization
+[]
+Forest Optimization Algorithm
+[]
+Natural Forest Regeneration Algorithm: A New Meta-Heuristic
+[]
+Red fox optimization algorithm
+[]
+Stochastic Fractal Search: A powerful metaheuristic algorithm
+[]
+Optimization of Water Distribution Network Design Using the Shuffled Frog Leaping Algorithm
+[]
+Distributed graph coloring: an approach based on the calling behavior of Japanese tree frogs
+[]
+A new Fruit Fly Optimization Algorithm: Taking the financial distress model as an example
+[]
+Principal components analysis by the galaxy-based search algorithm: a novel metaheuristic for continuous optimisation
+[]
+Galactic Swarm Optimization: A new global optimization metaheuristic inspired by galactic motion
+[]
+Gases Brownian Motion Optimization: an Algorithm for Optimization (GBMO)
+[]
+KGMO: A swarm optimization algorithm based on the kinetic energy of gas molecules
+[]
+Adaptation in Natural and Artificial Systems, An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence
+[]
+Gene Expression Programming in Problem Solving
+[]
+General Relativity Search Algorithm: A Global Optimization Approach
+[]
+Glowworm swarm optimization for simultaneous capture of multiple local optima of multimodal functions
+[]
+Grasshopper Optimisation Algorithm: Theory and application
+[]
+GSA: A Gravitational Search Algorithm
+[]
+Gravitational Interactions Optimization
+[]
+New Optimization Heuristics: The Great Deluge and Record to Record Travel
+[]
+Grenade Explosion Method---A novel tool for optimization of multimodal functions
+[]
+Group Counseling Optimization: A Novel Approach
+[]
+Collective decision optimization algorithm: A new heuristic optimization method
+[]
+Harris's Hawk Multi-Objective Optimizer for Reference Point Problems
+[]
+Heart: a novel optimization algorithm for cluster analysis
+[]
+A global optimization algorithm inspired in the behavior of selfish herds
+[]
+New Hoopoe Heuristic Optimization
+[]
+A hormone regulation-based approach for distributed and on-line scheduling of machines and automated guided vehicles
+[]
+Horse Optimization Algorithm: A Novel Bio-Inspired Algorithm for Solving Global Optimization Problems
+[]
+A novel life choice-based optimizer
+[]
+Deer Hunting Optimization Algorithm: A New Nature-Inspired Meta-heuristic Paradigm
+[]
+A New Optimization Algorithm Based on Search and Rescue Operations
+[]
+Student psychology based optimization algorithm: A new population based optimization algorithm for solving optimization problems
+[]
+Spotted hyena optimizer: A novel bio-inspired based metaheuristic technique for engineering applications
+[]
+A novel numerical optimization algorithm inspired from weed colonization
+[]
+Interior search algorithm (ISA): A novel approach for global optimization
+[]
+Ions motion algorithm for solving optimization problems
+[]
+A Novel Metaheuristic: Jaguar Algorithm with Learning Behavior
+[]
+Solving the integrated scheduling of production and rail transportation problem by Keshtel algorithm
+[]
+Kestrel-Based Search Algorithm for Association Rule Mining and Classification of Frequently Changed Items
+[]
+Kidney-inspired algorithm for optimization problems
+[]
+Krill herd: A new bio-inspired optimization algorithm
+[]
+Seven-Spot Ladybird Optimization: A Novel and Efficient Metaheuristic Algorithm for Numerical Optimization
+[]
+Lightning search algorithm
+[]
+Lion pride optimizer: An optimization algorithm inspired by lion pride behavior
+[]
+An Analysis of Locust Swarms on Large Scale Global Optimization Problems
+[]
+A mayfly optimization algorithm
+[]
+Exchange market algorithm
+[]
+Marine Predators Algorithm: A nature-inspired metaheuristic
+[]
+Meerkats-inspired Algorithm for Global Optimization Problems
+[]
+A New Algorithm: Wild Mice Colony Algorithm (WMC)
+[]
+Mine blast algorithm for optimization of truss structures with discrete variables
+[]
+Atom search optimization and its application to solve a hydrogeologic parameter estimation problem
+[]
+Monkey search: a novel metaheuristic search for global optimization
+[]
+Spider Monkey Optimization algorithm for numerical optimization
+[]
+Human-Inspired Algorithms for continuous function optimization
+[]
+Moth-flame optimization algorithm: A novel nature-inspired heuristic paradigm
+[]
+Multi-Verse Optimizer: a nature-inspired algorithm for global optimization
+[]
+A New Heuristic Optimization Algorithm: Harmony Search
+[]
+Mushroom Reproduction Optimization (MRO): A Novel Nature-Inspired Evolutionary Algorithm
+[]
+MOX: A novel global optimization algorithm inspired from Oviposition site selection and egg hatching inhibition in mosquitoes
+[]
+Mosquito flying optimization (MFO)
+[]
+A novel meta-heuristic optimization algorithm: Thermal exchange optimization
+[]
+NEW META-HEURISTIC OPTIMIZATION ALGORITHM USING NEURONAL COMMUNICATION
+[]
+A new stochastic optimization algorithm based on a particle collision metaheuristic
+[]
+A new metaheuristic for optimization: Optics inspired optimization (OIO)
+[]
+Metaheuristic inspired on owls behavior applied to heat exchangers design
+[]
+A new biologically inspired optimization algorithm
+[]
+A Hyper-Heuristic Inspired by Pearl Hunting
+[]
+Penguins Search Optimization Algorithm (PeSOA)
+[]
+Emperor penguin optimizer: A bio-inspired algorithm for engineering problems
+[]
+Pigeon-inspired optimization: a new swarm intelligence optimizer for air robot path planning
+[]
+Artificial Feeding Birds (AFB): A New Metaheuristic Inspired by the Behavior of Pigeons
+[]
+An Improved Artificial Plant Optimization Algorithm for Coverage Problem in WSN
+[]
+A Plant Propagation Algorithm for Constrained Engineering Optimisation Problems
+[]
+Plant intelligence based metaheuristic optimization algorithms
+[]
+Thinking capability of saplings growing up algorithm
+[]
+Polar Bear Optimization Algorithm: Meta-Heuristic with Fast Population Movement and Dynamic Birth and Death Mechanism
+[]
+A New Global Optimization Algorithm Inspired by Parliamentary Political Competitions
+[]
+Election algorithm: A new socio-politically inspired strategy
+[]
+Imperialist competitive algorithm: An algorithm for optimization inspired by imperialistic competition
+[]
+Greedy Politics Optimization: Metaheuristic inspired by political strategies adopted during state assembly elections
+[]
+An approach to real-coded quantum inspired evolutionary algorithm using particles filter
+[]
+Improved Raven Roosting Optimization algorithm (IRRO)
+[]
+A new meta-heuristic method: Ray Optimization
+[]
+A new optimizing algorithm using reincarnation concept
+[]
+A novel metaheuristic algorithm inspired by rhino herd behavior
+[]
+A hybrid rice optimization algorithm
+[]
+Using River Formation Dynamics to Design Heuristic Algorithms
+[]
+Roach Infestation Optimization
+[]
+The runner-root algorithm: A metaheuristic for solving unimodal and multimodal optimization problems inspired by runners and roots of plants in nature
+[]
+The Sailfish Optimizer: A novel nature-inspired metaheuristic algorithm for solving constrained engineering optimization problems
+[]
+The great salmon run: a novel bio-inspired algorithm for artificial system design and optimisation
+[]
+Salp Swarm Algorithm: A bio-inspired optimizer for engineering design problems
+[]
+Sandpiper optimization algorithm: a novel approach for solving real-life engineering problems
+[]
+Scientific algorithms for the Car Renter Salesman Problem
+[]
+Seagull optimization algorithm: Theory and its applications for large-scale industrial engineering problems
+[]
+SSPCO Optimization Algorithm (See-See Partridge Chicks Optimization)
+[]
+A new metaheuristic algorithm based on shark smell optimization
+[]
+On Nature-Inspired Dynamic Route Planning: Hammerhead Shark Optimization Algorithm
+[]
+A new evolutionary algorithm based on sheep flocks heredity model
+[]
+Golden sine algorithm: a novel math-inspired algorithm
+[]
+Slime Mold as a model for numerical optimization
+[]
+Small-World Optimization Algorithm for Function Optimization
+[]
+Spiral Dynamics Inspired Optimization
+[]
+Soccer Game Optimization
+[]
+Golden ball: a novel meta-heuristic to solve combinatorial optimization problems based on soccer concepts
+[]
+Soccer League Competition Algorithm, a New Method for Solving Systems of Nonlinear Equations
+[]
+Tiki-taka algorithm: a novel metaheuristic inspired by football playing style
+[]
+Society and civilization: an optimization algorithm based on the simulation of social behavior
+[]
+Queuing search algorithm: A novel metaheuristic algorithm for solving engineering optimization problems
+[]
+Seeker Optimization Algorithm for Digital IIR Filter Design
+[]
+Thieves and Police, a New Optimization Algorithm: Theory and Application in Probabilistic Power Flow
+[]
+Poor and rich optimization algorithm: A new human-based and multi populations algorithm
+[]
+Human urbanization algorithm: A novel metaheuristic approach
+[]
+Social Engineering Optimization (SEO); A New Single-Solution Meta-heuristic Inspired by Social Engineering
+[]
+A swarm optimization algorithm inspired in the behavior of the social-spider
+[]
+STOA: A bio-inspired based optimization algorithm for industrial engineering problems
+[]
+Sperm motility algorithm: a novel metaheuristic approach for global optimisation
+[]
+League Championship Algorithm: A New Algorithm for Numerical Function Optimization
+[]
+A novel nature-inspired algorithm for optimization: Squirrel search algorithm
+[]
+Swallow swarm optimization algorithm: a new method to optimization
+[]
+Symbiotic Organisms Search: A new metaheuristic optimization algorithm
+[]
+A New Metaheuristic Method for Optimization: Sonar Inspired Optimization
+[]
+A Multimodal Optimization Algorithm Inspired by the States of Matter
+[]
+Teaching-learning-based optimization: A novel method for constrained mechanical design optimization problems
+[]
+Termite colony optimization: A novel approach for optimizing continuous problems
+[]
+A Simulative Bionic Intelligent Optimization Algorithm: Artificial Searching Swarm Algorithm and Its Performance Analysis
+[]
+A novel meta-heuristic algorithm: tug of war optimization
+[]
+Tunicate Swarm Algorithm: A new bio-inspired based metaheuristic paradigm for global optimization
+[]
+Research on Permutation Flow-shop Scheduling Problem based on Improved Genetic Immune Algorithm with vaccinated offspring
+[]
+Vibrating particles system algorithm for truss optimization with multiple natural frequency constraints
+[]
+Viral systems: A new bio-inspired optimisation approach
+[]
+A novel nature-inspired algorithm for optimization: Virus colony search
+[]
+Virulence Optimization Algorithm
+[]
+Swine Influenza Models Based Optimization (SIMBO)
+[]
+A novel metaheuristic for continuous optimization problems: Virus optimization algorithm
+[]
+Volleyball Premier League Algorithm
+[]
+A new metaheuristic for numerical function optimization: Vortex Search algorithm
+[]
+Egyptian Vulture Optimization Algorithm - A New Nature Inspired Meta-heuristics for Knapsack Problem
+[]
+Passing vehicle search (PVS): A novel metaheuristic algorithm
+[]
+Wasp swarm optimization of logistic systems
+[]
+Rain-fall optimization algorithm: A population based algorithm for solving constrained optimization problems
+[]
+Hydrological Cycle Algorithm for Continuous Optimization Problems
+[]
+The intelligent water drops algorithm: a nature-inspired swarm-based optimization algorithm
+[]
+Optimal approximation of stable linear systems with a novel and efficient optimization algorithm
+[]
+Water cycle algorithm - A novel metaheuristic optimization method for solving constrained engineering optimization problems
+[]
+Water Evaporation Optimization: A novel physically inspired optimization algorithm
+[]
+A water-flow algorithm for flexible flow shop scheduling with~intermediate buffers
+[]
+Water wave optimization: A new nature-inspired metaheuristic
+[]
+The Whale Optimization Algorithm
+[]
+Binary whale optimization algorithm: a new metaheuristic approach for profit-based unit commitment problems in competitive electricity markets
+[]
+Sperm whale algorithm: An effective metaheuristic algorithm for production optimization problems
+[]
+Killer Whale Algorithm: An Algorithm Inspired by the Life of Killer Whale
+[]
+A New Swarm Algorithm Based on Orcas Intelligence for Solving Maze Problems
+[]
+A novel and effective optimization algorithm for global optimization and its engineering applications: Turbulent Flow of Water-based Optimization (TFWO)
+[]
+Wind Driven Optimization (WDO): A novel nature-inspired optimization algorithm and its application to electromagnetics
+[]
+Wolf search algorithm with ephemeral memory
+[]
+Grey Wolf Optimizer
+[]
+Worm optimization: a novel optimization algorithm inspired by C. Elegans
+[]
+Yin-Yang-pair Optimization: A novel lightweight optimization algorithm
+[]
+A novel bio-inspired optimization model based on Yellow Saddle Goatfish behavior
+[]
+Zombie Survival Optimization: A swarm intelligence algorithm inspired by zombie foraging
+[]

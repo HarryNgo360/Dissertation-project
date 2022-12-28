@@ -1,0 +1,13 @@
+
+
+Step 1: Create a Matrix frame of mxm authors with initial 0 values 
+
+Step 2: 
+
+For each article from the Article list
+	Create a temporary Author list: list_author = tmp
+	For each item in tmp
+		Remove tmp[item]
+		For each item2 in tmp
+			V(item, item2) = V(item, item2)+1
+			V(item2, item) = V(item, item2)
